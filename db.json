@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "nama": "Putri salsa",
+      "alamat": "sukoharjo",
+      "id": 1
+    },
+    {
+      "nama": "randis wahyuni",
+      "alamat": "sukoharjo",
+      "id": 2
+    },
+    {
+      "nama": "mawar melati",
+      "alamat": "solo",
+      "id": 3
+    },
+    {
+      "nama": "kevin sanjaya",
+      "alamat": "surabaya",
+      "id": 4
+    },
+    {
+      "nama": "marcus fernaldi G",
+      "alamat": "jakarta",
+      "id": 5
+    },
+    {
+      "nama": "Randis Wahyuni",
+      "alamat": "Bulu, Sukoharjo",
+      "id": 6
+    },
+    {
+      "nama": "Bagas Maulana",
+      "alamat": "Cilacap",
+      "id": 7
+    }
+  ]
+}
